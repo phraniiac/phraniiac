@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 > Check out my Medium profile - https://medium.com/@dev.pranav
+
 > And my blog here - https://pranavssh.in
 
 
